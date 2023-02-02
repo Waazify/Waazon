@@ -1,0 +1,6 @@
+{
+	"SourceDir": "C:\\Users\\mhaba\\Desktop\\PythonProjects\\MobileApps\\Waazon",
+	"DistributionDir": ".",
+	"BuildCommand": "expo start",
+	"StartCommand": "expo start"
+}

@@ -1,0 +1,71 @@
+{
+	"projectPath": "C:\\Users\\mhaba\\Desktop\\PythonProjects\\MobileApps\\Waazon",
+	"projectInfo": {
+		"ProjectName": "Waazon",
+		"ProjectPath": "C:\\Users\\mhaba\\Desktop\\PythonProjects\\MobileApps\\Waazon",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": "",
+		"Framework": "react-native"
+	},
+	"packageJson": {
+		"main": "node_modules/expo/AppEntry.js",
+		"scripts": {
+			"start": "expo start",
+			"android": "expo start --android",
+			"ios": "expo start --ios",
+			"web": "expo start --web",
+			"eject": "expo eject"
+		},
+		"dependencies": {
+			"@expo-google-fonts/cairo": "^0.2.0",
+			"@expo-google-fonts/inter": "^0.2.0",
+			"@react-native-community/netinfo": "^6.0.2",
+			"@react-native-firebase/app": "^12.7.5",
+			"@react-native-firebase/auth": "^12.7.5",
+			"@react-native-picker/picker": "1.16.1",
+			"@react-navigation/bottom-tabs": "^6.0.5",
+			"@react-navigation/native": "^6.0.2",
+			"@react-navigation/stack": "^6.0.7",
+			"@types/react-native-global-props": "^1.1.0",
+			"amazon-cognito-identity-js": "^5.1.1",
+			"aws-amplify-react-native": "^5.0.3",
+			"expo": "~42.0.1",
+			"expo-app-loading": "^1.1.2",
+			"expo-font": "~9.2.1",
+			"expo-status-bar": "~1.0.4",
+			"firebase": "8.2.3",
+			"react": "16.13.1",
+			"react-dom": "16.13.1",
+			"react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+			"react-native-camera": "^4.1.1",
+			"react-native-elements": "^3.4.2",
+			"react-native-gesture-handler": "~1.10.2",
+			"react-native-global-props": "^1.1.5",
+			"react-native-paper": "^4.9.2",
+			"react-native-web": "~0.13.12",
+			"react-navigation": "^4.4.4",
+			"react-pressable": "^0.2.0"
+		},
+		"devDependencies": {
+			"@babel/core": "^7.9.0",
+			"@types/react": "~16.9.35",
+			"@types/react-native": "~0.63.2",
+			"typescript": "~4.0.0"
+		},
+		"private": true
+	},
+	"framework": "react-native",
+	"initialStage": "clean-slate",
+	"strategy": "create"
+}
